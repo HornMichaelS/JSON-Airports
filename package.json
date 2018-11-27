@@ -2,7 +2,7 @@
   "name": "airports",
   "version": "1.0.0",
   "description": "A JSON array of Airport names, IATA code and location",
-  "main": "airports.json",
+  "main": "./index.js",
   "files": [
     "airports.json"
   ],

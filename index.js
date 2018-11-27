@@ -1,4 +1,4 @@
-[
+module.exports = [
     {
         "iata": "UTK",
         "lon": "169.86667",
